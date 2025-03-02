@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BALA5013
 - 👀 I’m interested in practical learning.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning Machine learning and deep learning.
 - 
 
 
