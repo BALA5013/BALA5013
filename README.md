@@ -1,3 +1,11 @@
+# Hi, I'm Balavignesh 👋
+
+I build things at the intersection of **Machine Learning**, **AWS Cloud**, and **Data Engineering**.
+Currently deepening expertise in cloud-native ML pipelines and real-time streaming systems.
+
+---
+
+## 🚀 Featured Projects
 `FastAPI` · `AWS Kinesis` · `AWS Lambda` · `SageMaker` · `Amazon Bedrock` · `CloudWatch` · `XGBoost`
 
 End-to-end ML pipeline with live streaming inference. Simulates 100 network traffic records per run, streams them through Kinesis, classifies attack types (DDoS, Intrusion, Malware) via a SageMaker XGBoost endpoint, and generates AI-powered mitigation steps using **Amazon Bedrock** — all displayed on a real-time FastAPI dashboard.
